@@ -1,0 +1,48 @@
+body{margin: 0; 
+	font-family: 'Mate SC', serif;
+}
+
+header{background-color: #fba670;
+	text-align: center; position: fixed;
+	left: 0; top: 0;
+	width: 250px ; height: 1000px ;
+}
+h1{color: #70fba6; font-size: 30px;
+}
+header a{color: #5ac985; font-size: 25px;
+}
+header img{
+	border-radius: 200px;
+	width: 170px;
+	margin-top: 15px;
+}
+header p{color: whitesmoke; font-size: 20px;
+}
+
+main{background-color: #fff6f1; width: 1229PX;
+	position: STATIC; margin-left: 250PX; 
+	padding: 20px;
+}
+h3{color: #a670fb; 
+}
+
+figure.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+}
+main img {
+    width: 150px;
+    height: 150px;
+}
+.caption {
+    display: inline-block;
+}
+
+h3{
+	font-size: 25px;
+}
+
+footer{ background-color: #fff6f1; 
+	width: 1229px; margin-left: 250PX; padding: 20px }
